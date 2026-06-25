@@ -3,5 +3,5 @@ dist/
 coverage/
 .env
 *.log
-credetials.test.json
+credentials.test.json
 token.test.json
