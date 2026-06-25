@@ -1,0 +1,3 @@
+display_name: Adaptive Assessment Loop
+short_description: Decide whether to continue an assessment or finish with recommendations.
+default_prompt: Evaluate assessment answers, decide on follow-up questions versus recommendations, and stop after three total rounds.
